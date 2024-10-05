@@ -1,0 +1,24 @@
+[submodule "achievement_service"]
+	path = achievement_service
+	url = https://github.com/kvitkoaleksandr/achievement_service.git
+[submodule "user_service"]
+	path = user_service
+	url = https://github.com/kvitkoaleksandr/user_service.git
+[submodule "post_service"]
+	path = post_service
+	url = https://github.com/kvitkoaleksandr/post_service.git
+[submodule "notification_service"]
+	path = notification_service
+	url = https://github.com/kvitkoaleksandr/notification_service.git
+[submodule "payment_service"]
+	path = payment_service
+	url = https://github.com/kvitkoaleksandr/payment_service.git
+[submodule "infra"]
+	path = infra
+	url = https://github.com/kvitkoaleksandr/infra.git
+[submodule "analytics_service"]
+	path = analytics_service
+	url = https://github.com/kvitkoaleksandr/analytics_service.git
+[submodule "project_service"]
+	path = project_service
+	url = https://github.com/kvitkoaleksandr/project_service.git
